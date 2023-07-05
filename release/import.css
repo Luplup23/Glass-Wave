@@ -10,6 +10,9 @@
     --var-black2: rgb(0 0 0 / 65%);
     --var-notification: #B00020;
 	--var-chat-bubbles-edge-background: rgb(95 94 84);
+	--var-accent: rgb(242 232 142);
+	--var-chat-bubbles-background: rgb(95 94 84);
+	--var-chat-mentioned: rgb(242 232 142);
 }
 /* Theme info and version */
 .info-3pQQBb:after {
