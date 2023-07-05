@@ -9,6 +9,7 @@
     --var-black1: rgb(0 0 0 / 55%);
     --var-black2: rgb(0 0 0 / 65%);
     --var-notification: #B00020;
+	--var-chat-bubbles-edge-background: rgb(95 94 84);
 }
 /* Theme info and version */
 .info-3pQQBb:after {
